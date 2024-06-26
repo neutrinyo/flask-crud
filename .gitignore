@@ -1,0 +1,7 @@
+orders/
+__pycache__/
+ordersystem/__pycache__/
+ordersystem/.pytest_cache/
+ordersystem/migrations/
+ordersystem/tests/__pycache__/
+unittest_tests/__pycache__/
